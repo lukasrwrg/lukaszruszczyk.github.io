@@ -1,2 +1,0 @@
-# lukaszruszczyk.github.io
-tutorial
